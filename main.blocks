@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="playMelody" id="6fqauk;-pxvRBS+p@cGQ" disabled="true" x="568" y="-47"><value name="melody"><shadow type="melody_editor" id="wjJJ8v0%eFkDXw0@U)X1" disabled="true"><field name="melody">"C D E F G A B C5 "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="Q+Ic7pU/dLmkHBAWTVk-" disabled="true"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value></block><block type="device_forever" id=".17JHt[T;Qj/7Ca){[nO" x="1145" y="-65"/><block type="device_show_leds" id="r^7JQx@QX(_mm7o9?_lb" disabled="true" x="341" y="0"><field name="LEDS">`
+        . # # # . 
+        # . # . # 
+        # # # # # 
+        # . # . # 
+        . # # # .
+        `</field></block><block type="pxt-on-start" id="rU;PAxw5V5:{u!4,5.I2" x="1162" y="65"/><block type="device_point" id="2Ao`X!!vdU)f6S7UA6]+" disabled="true" x="724" y="179"><value name="x"><shadow type="math_number_minmax" id="M.$11;=S_}[}7BiDY3_F" disabled="true"><mutation min="0" max="4" label="X" precision="1"/><field name="SLIDER">4</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="l7xQy.[3z19!N%o7RbNc" disabled="true"><mutation min="0" max="4" label="Y" precision="1"/><field name="SLIDER">2</field></shadow></value></block></xml>
